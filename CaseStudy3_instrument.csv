@@ -1,0 +1,2 @@
+Phenotype,SNP,effect_allele,other_allele,beta,se,eaf,pvalue,units
+HMGCR,rs17238484,T,G,0.0627,0.0627,0.2533,1.35E-21,sd
