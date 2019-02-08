@@ -1,6 +1,6 @@
-# Using the MR-Base platform to investigate risk factors, mechanisms and drug targets for thousands of phenotypes
+# Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes
 
-This repository contains the case studies associated with the manuscript "Using the MR-Base platform to investigate risk factors, mechanisms and drug targets for thousands of phenotypes".
+This repository contains the case studies associated with the manuscript "Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes".
 
 ## Case Study 1
 
