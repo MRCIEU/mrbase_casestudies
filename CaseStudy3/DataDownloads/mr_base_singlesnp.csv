@@ -1,0 +1,4 @@
+"","exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"1","HMGCR","Type 2 diabetes || id:24","4RQdCH","24",51943,"rs17238484",-0.430773436836118,0.278020431494285,0.121278179622374
+"2","HMGCR","Type 2 diabetes || id:24","4RQdCH","24",51943,"All - Inverse variance weighted",NA,NA,NA
+"3","HMGCR","Type 2 diabetes || id:24","4RQdCH","24",51943,"All - MR Egger",NA,NA,NA

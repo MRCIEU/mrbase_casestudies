@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","UKB-a:360","7","Coronary heart disease || id:7","Systolic blood pressure  automated reading || id:UKB-a:360","MR Egger",157,0.9711,0.2917,0.001091
+"2","UKB-a:360","7","Coronary heart disease || id:7","Systolic blood pressure  automated reading || id:UKB-a:360","Weighted median",157,0.571,0.07664,9.226e-14
+"3","UKB-a:360","7","Coronary heart disease || id:7","Systolic blood pressure  automated reading || id:UKB-a:360","Inverse variance weighted",157,0.5663,0.0905,3.924e-10
+"4","UKB-a:360","7","Coronary heart disease || id:7","Systolic blood pressure  automated reading || id:UKB-a:360","Weighted mode",157,0.571,0.1744,0.00131
