@@ -1,0 +1,37 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","1009","2","Body mass index || id:2","Subjective well being || id:1009","MR Egger",82,0.1265,0.1188,0.2901
+"2","1009","2","Body mass index || id:2","Subjective well being || id:1009","Weighted median",82,-0.04063,0.04271,0.3414
+"3","1009","2","Body mass index || id:2","Subjective well being || id:1009","Inverse variance weighted",82,0.01118,0.03383,0.7411
+"4","1009","2","Body mass index || id:2","Subjective well being || id:1009","Weighted mode",82,-0.08936,0.1059,0.4012
+"5","1009","299","HDL cholesterol || id:299","Subjective well being || id:1009","MR Egger",69,0.07468,0.1572,0.6363
+"6","1009","299","HDL cholesterol || id:299","Subjective well being || id:1009","Weighted median",69,0.02325,0.05959,0.6964
+"7","1009","299","HDL cholesterol || id:299","Subjective well being || id:1009","Inverse variance weighted",69,-0.0318,0.04425,0.4724
+"8","1009","299","HDL cholesterol || id:299","Subjective well being || id:1009","Weighted mode",69,0.05682,0.1309,0.6655
+"9","1009","300","LDL cholesterol || id:300","Subjective well being || id:1009","MR Egger",69,0.04597,0.1697,0.7873
+"10","1009","300","LDL cholesterol || id:300","Subjective well being || id:1009","Weighted median",69,0.01217,0.06434,0.8499
+"11","1009","300","LDL cholesterol || id:300","Subjective well being || id:1009","Inverse variance weighted",69,0.03362,0.04745,0.4786
+"12","1009","300","LDL cholesterol || id:300","Subjective well being || id:1009","Weighted mode",69,-0.1463,0.1563,0.3525
+"13","1009","301","Total cholesterol || id:301","Subjective well being || id:1009","MR Egger",69,0.04396,0.1628,0.788
+"14","1009","301","Total cholesterol || id:301","Subjective well being || id:1009","Weighted median",69,0.0155,0.06252,0.8042
+"15","1009","301","Total cholesterol || id:301","Subjective well being || id:1009","Inverse variance weighted",69,0.009429,0.04556,0.836
+"16","1009","301","Total cholesterol || id:301","Subjective well being || id:1009","Weighted mode",69,0.005856,0.1246,0.9627
+"17","1009","61","Waist circumference || id:61","Subjective well being || id:1009","MR Egger",82,0.05913,0.1249,0.6372
+"18","1009","61","Waist circumference || id:61","Subjective well being || id:1009","Weighted median",82,-0.006429,0.04842,0.8944
+"19","1009","61","Waist circumference || id:61","Subjective well being || id:1009","Inverse variance weighted",82,0.001548,0.03522,0.9649
+"20","1009","61","Waist circumference || id:61","Subjective well being || id:1009","Weighted mode",82,0.01475,0.1203,0.9027
+"21","1009","7","Coronary heart disease || id:7","Subjective well being || id:1009","MR Egger",82,0.0723,0.2602,0.7818
+"22","1009","7","Coronary heart disease || id:7","Subjective well being || id:1009","Weighted median",82,0.1221,0.1074,0.2559
+"23","1009","7","Coronary heart disease || id:7","Subjective well being || id:1009","Inverse variance weighted",82,0.03866,0.07796,0.62
+"24","1009","7","Coronary heart disease || id:7","Subjective well being || id:1009","Weighted mode",82,0.2335,0.2829,0.4116
+"25","1009","79","Waist-to-hip ratio || id:79","Subjective well being || id:1009","MR Egger",82,0.008048,0.1293,0.9505
+"26","1009","79","Waist-to-hip ratio || id:79","Subjective well being || id:1009","Weighted median",82,-0.09289,0.04833,0.0546
+"27","1009","79","Waist-to-hip ratio || id:79","Subjective well being || id:1009","Inverse variance weighted",82,-0.05709,0.03635,0.1163
+"28","1009","79","Waist-to-hip ratio || id:79","Subjective well being || id:1009","Weighted mode",82,-0.1327,0.1358,0.3316
+"29","1009","798","Myocardial infarction || id:798","Subjective well being || id:1009","MR Egger",82,0.01883,0.2867,0.9478
+"30","1009","798","Myocardial infarction || id:798","Subjective well being || id:1009","Weighted median",82,0.03742,0.1231,0.7612
+"31","1009","798","Myocardial infarction || id:798","Subjective well being || id:1009","Inverse variance weighted",82,-0.03199,0.08586,0.7095
+"32","1009","798","Myocardial infarction || id:798","Subjective well being || id:1009","Weighted mode",82,0.4143,0.3412,0.2282
+"33","1009","999","Body fat || id:999","Subjective well being || id:1009","MR Egger",82,-0.06057,0.1603,0.7066
+"34","1009","999","Body fat || id:999","Subjective well being || id:1009","Weighted median",82,-0.01032,0.0651,0.8741
+"35","1009","999","Body fat || id:999","Subjective well being || id:1009","Inverse variance weighted",82,-0.05095,0.04598,0.2678
+"36","1009","999","Body fat || id:999","Subjective well being || id:1009","Weighted mode",82,0.089,0.1571,0.5727
