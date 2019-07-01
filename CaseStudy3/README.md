@@ -34,6 +34,6 @@ Further information on the TwoSampleMR package can be found [here](https://githu
 - Set allele harmonisation to ‘Attempt to align strands for palindromic SNPs’
 - Select the Wald ratio method for analysis
 
-5. Perform the MR analysis and save the results, including the citations that are to be referenced in any published work arising from this analysis.  
+5. Select the ‘perform MR analysis’ button and save the results, including the citations that are to be referenced in any published work arising from this analysis, on the following screen.
 
 Note that the MR-Base web interface will provide the analysis code as an output if you wish to recreate your analysis in R. Also, note that there are no graphical results for this case study as we used a single SNP instrument and so the sensitivity analyses illustrated in the graphs will not have been conducted. 
