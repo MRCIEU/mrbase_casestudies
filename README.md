@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/169761536.svg)](https://zenodo.org/badge/latestdoi/169761536)
 
-# Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes
+# MR-Base case studies
 
 This repository contains the case studies associated with the manuscript "Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes".
 
