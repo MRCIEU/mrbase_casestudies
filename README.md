@@ -1,8 +1,9 @@
 [![DOI](https://zenodo.org/badge/169761536.svg)](https://zenodo.org/badge/latestdoi/169761536)
+[![Paper](https://img.shields.io/badge/Paper-10.12688/wellcomeopenres.15334.1-lightgreen.svg)](https://doi.org/10.12688/wellcomeopenres.15334.1)
 
 # MR-Base case studies
 
-This repository contains the case studies associated with the manuscript "Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes".
+This repository contains the case studies associated with the manuscript ["Using the MR-Base platform to investigate risk factors and drug targets for thousands of phenotypes"](https://doi.org/10.12688/wellcomeopenres.15334.1).
 
 ## [Case Study 1](https://github.com/MRCIEU/mrbase_casestudies/tree/master/CaseStudy1)
 
