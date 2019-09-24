@@ -32,7 +32,7 @@ Further information on the TwoSampleMR package can be found [here](https://githu
 |    300    |    LDL cholesterol             |    [Willer (2013)](https://doi.org/10.1038/ng.2797)      |    GLGC                    |    173082         |    Mixed           |    Males and   females    |
 |    301    |    Total cholesterol           |    [Willer (2013)](https://doi.org/10.1038/ng.2797)      |    GLGC                    |    187365         |    Mixed           |    Males and females      |
 |    798    |    Myocardial   infarction     |    [Nikpay (2015)](https://doi.org/10.1038/ng.3396)      |    CARDIoGRAM   plusC4D    |    171875         |    Mixed           |    Males and   females    |
-|    7      |    Coronary heart   disease    |    [Nikpay (2015)](https://doi.org/10.1038/ng.3396)      |    CARDIoGRAM   plusC4D    |    171875         |    Mixed           |    Males and   females    |
+|    7      |    Coronary heart   disease    |    [Nikpay (2015)](https://doi.org/10.1038/ng.3396)      |    CARDIoGRAM   plusC4D    |    184305         |    Mixed           |    Males and   females    |
 
 4. Specify the analysis settings:
 
